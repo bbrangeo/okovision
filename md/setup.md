@@ -6,7 +6,6 @@
 
 ## **Configuration / Connexion** à la base de donnée
 
-* Si vous etes chez Hostinger, [voir dans le chapitre install Hostinger](/md/installWeb.md)
 * Si vous êtes sous windows et que vous avez suivi le tuto, mettre localhost, root/root (comme dans l'image ci-dessous).
 * Si vous êtes sous rpi/linux, localhost, pour usr / mot de passe, c'est vous qui savez.
 * Si vous êtes sur Nas Synology, mettre localhost, user : root et pas de mot de passe (par default c'est comme cela)
