@@ -1,15 +1,14 @@
 # Installation
 
-  * [Hébergeur Web Gratuit - Hostinger (recommandée)](/md/installWeb.md)
+  * [Hébergeur Web Gratuit - A completer]
   * [Linux](/md/instalLinux.md)
   * [Nas Synology](/md/synology.md)
   * [UWamp - Windows](/md/UWamp.md)
-    * [Migration de UWamp (Windows) vers Hostinger](/md/mig2hostinger.md)
+
 
 # Configuration des tâches automatiques
 
   * [Cron - Linux](/md/cronlinux.md)
-  * [Cron - hostinger](/md/cronHostinger.md)
   * [Cron - Synology](/md/cronSynology.md)
   * Windows -> rien car déconseillé
     

@@ -46,3 +46,4 @@ matrice.csv
 test*
 _tmp/*.sql
 php.ini
+.c9/

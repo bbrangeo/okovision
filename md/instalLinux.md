@@ -4,6 +4,7 @@ Si vous avez un rpi ou un linux chez vous, je pense sans me tromper que vous sav
 Je suis aussi sur que vous savez configurer un site sous apache.
 
 Je vous met le detail pour une configuration type. Cette exemple est pour un raspberry qui ne sera dédié qu'a okovision
+Okovision est compatible PHP5 et PHP7
 
 Passer en root
 
@@ -12,7 +13,7 @@ Passer en root
 Installation des prerequis
 
     apt-get update
-    apt-get -y install apache2 php5 php5-mysql php5-curl mysql-server
+    apt-get -y install apache2 php7 php-mysql php-curl php-mbstring php-curl php-xml mysql-server
 
 Installation des sources okovision
 
