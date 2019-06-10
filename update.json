@@ -115,10 +115,5 @@
         "url": "https://github.com/stawen/okovision/archive/1.8.1.zip",
         "date": "01/02/2017",
         "changelog": "<ul><li>Correction anomalie lors du setup pour le choix IP / USB</li><li>Correction déconnexion sous FireFox</li></ul>"
-    },
-    "1.8.2": {
-        "url": "https://github.com/stawen/okovision/archive/1.8.2.zip",
-        "date": "10/06/2019",
-        "changelog": "<ul><li>Version compatible PHP 5.6 et PHP 7.2</li><li>Correction de compatibilité avec Mysql 5.7 et MariaDB 10.3</li></ul>"
     }
 }
