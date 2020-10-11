@@ -44,6 +44,4 @@ Avec votre navigateur, **accedez à okovision http://[ip]/okovision** (si vous a
 
 ![](/wiki/nas/Nas-0080-inst.png)
 
-Recuperez automatiquement le fichier sur la chaudiere
-
-[Cron - Synology](/md/cronSynology.md)
+**Nota :** Recuperez automatiquement le fichier sur la chaudiere : [Cron - Synology](/md/cronSynology.md)
